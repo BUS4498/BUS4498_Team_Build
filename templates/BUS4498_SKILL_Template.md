@@ -8,7 +8,9 @@ description: >
 # [Skill Title]
 
 <!--
-Complete this template after finishing Milestone 1 Sections 3.1-3.3.
+Complete this initial design after finishing Milestone 1 Sections 3.1-3.3.
+Use only the assigned scenario and policy at this stage. Data, tools, and
+controlled testing will be introduced in later milestones.
 Delete every HTML comment before submitting the Skill.
 Never include credentials, access tokens, personal information, confidential
 data, or real customer data.
@@ -79,12 +81,13 @@ Supporting output asset, if needed: [Asset name](assets/file-name.md)
 ## Gotchas
 
 <!--
-Record non-obvious corrections discovered while doing and testing the task.
-Each Gotcha should tell the user what can go wrong and what to do instead.
+Record important non-obvious rules, exceptions, conflicts, or assumptions that
+are grounded in the assigned scenario or policy. If the materials do not
+resolve an issue, label it as an open question rather than inventing a rule.
 -->
 
-- **[Non-obvious issue]:** [What to do instead and how the team discovered it]
-- **[Non-obvious issue]:** [What to do instead and how the team discovered it]
+- **[Non-obvious issue]:** [What to do and the scenario or policy basis]
+- **[Non-obvious issue]:** [What to do and the scenario or policy basis]
 
 ## Supporting Files
 
@@ -109,7 +112,8 @@ No supporting files are required because [brief explanation].
 - [ ] The procedure provides one clear default method.
 - [ ] Required inputs, stop conditions, and exception behavior are explicit.
 - [ ] The output format is usable without additional explanation.
-- [ ] Gotchas capture lessons that were not obvious before testing.
+- [ ] Gotchas or exception rules are grounded in the scenario or policy and do not invent missing rules.
 - [ ] Every supporting-file link opens and is only one level deep.
 - [ ] Unused example links and placeholder text have been removed.
 - [ ] No credentials, personal information, or confidential data are present.
+
