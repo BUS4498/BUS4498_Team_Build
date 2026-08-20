@@ -6,18 +6,22 @@
 
 ## Team Charter
 
+### Team Name
+
+[Enter your team name.]
+
 ### Team Members
 
 - [Team member 1 full name]
 - [Team member 2 full name]
 
-### Assigned Theme
-
-[Enter your assigned theme.]
 
 ### System Name
 
 [Enter the name your team has chosen for the system.]
+
+### System Goal
+[Read Chapter 2 Section 2.1, then enter the well-structured goal of your agentic system]
 
 ### Who Is Better Off When This Works?
 
