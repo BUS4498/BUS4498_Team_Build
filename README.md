@@ -1,4 +1,4 @@
-# [System Name]
+# About the Agentic System
 
 **BUS 4498 Team Build**
 
